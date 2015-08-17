@@ -15,28 +15,189 @@ We have a couple of requests for anyone who uses the data. First, we’d love it
 
 #Data Fields
 
-Unique ID
-This is a unique ID assigned to each applicant. Numbers were assigned using a random number generator.
-Timestamp
-This was the timestamp recorded by google forms. Timestamps are in EDT (Eastern U.S. Daylight Time). Note that the application process officially began at 1:00pm EDT June 1 ended at 6:00am EDT on June 23. Some applications have timestamps later than this date, and this is due to a variety of reasons including exceptions granted for technical difficulties, error corrections (which required re-submitting the form), and applications sent in via email and later entered manually into the form. 
-Gender
-Mandatory. Choose one from list or fill-in other. Options provided: Male, Female, Other (fill in).
-Country of Nationality
-Mandatory. Choose one option from list.
-Country of Residence
-Mandatory. Choose one option from list.
-What is your primary occupation?
-Mandatory. Choose one from list or fill-in other. Options provided: Undergraduate student; Masters/professional student; PhD candidate; Faculty/teacher; Researcher (non-faculty); Librarian; Publisher; Professional advocate; Civil servant / government employee; Journalist; Doctor / medical professional; Lawyer; Other (fill in).
-Select the option below that best describes your field of study or expertise
-Mandatory. Choose one option from list.
-What is your primary area of interest within OpenCon’s program areas?
-Mandatory. Choose one option from list. Note: for the first approximately 24 hours the options were listed in this order: Open Access, Open Education, Open Data. After that point, we set the form to randomize the order, and noticed an immediate shift in the distribution of responses. 
-Are you currently engaged in activities to advance Open Access, Open Education, and/or Open Data?
-Mandatory. Choose one option from list.
-Are you planning to participate in any of the following events this year?
-Optional. Choose all that apply from list. Multiple selections separated by semi-colon.
-Do you have any of the following skills or interests?
-Mandatory. Choose all that apply from list or fill-in other. Multiple selections separated by semi-colon. Options provided: Coding; Website Management / Design; Graphic Design; Video Editing; Community / Grassroots Organizing; Social Media Campaigns; Fundraising; Communications and Media; Blogging; Advocacy and Policy; Event Logistics; Volunteer Management; Research about OpenCon's Issue Areas; Other (fill-in). 
+<table cellpadding="0" cellspacing="0" class="c9">
+
+<tbody>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Unique ID</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">This is a unique ID assigned to each applicant. Numbers were assigned using a random number generator.</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Timestamp</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span>This was the timestamp recorded by google forms. Timestamps are in EDT (Eastern U.S. Daylight Time). Note that the application process officially began at 1:00pm EDT June 1 ended at 6:00am EDT on June 23\.</span> <span>Some applications have timestamps later than this date, and this is due to a variety of reasons including exceptions granted for technical difficulties, error corrections (which required re-submitting the form), and applications sent in via email and later entered manually into the form.</span> <sup>[[a]](#cmnt1)</sup>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Gender</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Mandatory. Choose one from list or fill-in other. Options provided: Male, Female, Other (fill in).</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Country of Nationality</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Mandatory. Choose one option from list.</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Country of Residence</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Mandatory. Choose one option from list.</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">What is your primary occupation?</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Mandatory. Choose one from list or fill-in other. Options provided: Undergraduate student; Masters/professional student; PhD candidate; Faculty/teacher; Researcher (non-faculty); Librarian; Publisher; Professional advocate; Civil servant / government employee; Journalist; Doctor / medical professional; Lawyer; Other (fill in).</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Select the option below that best describes your field of study or expertise</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Mandatory. Choose one option from list.</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">What is your primary area of interest within OpenCon’s program areas?</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Mandatory. Choose one option from list. Note: for the first approximately 24 hours the options were listed in this order: Open Access, Open Education, Open Data. After that point, we set the form to randomize the order, and noticed an immediate shift in the distribution of responses.</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Are you currently engaged in activities to advance Open Access, Open Education, and/or Open Data?</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Mandatory. Choose one option from list.</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Are you planning to participate in any of the following events this year?</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Optional. Choose all that apply from list. Multiple selections separated by semi-colon.</span>
+
+</td>
+
+</tr>
+
+<tr class="c4">
+
+<td class="c12" colspan="1" rowspan="1">
+
+<span class="c11">Do you have any of the following skills or interests?</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c11">Mandatory. Choose all that apply from list or fill-in other. Multiple selections separated by semi-colon. Options provided: Coding; Website Management / Design; Graphic Design; Video Editing; Community / Grassroots Organizing; Social Media Campaigns; Fundraising; Communications and Media; Blogging; Advocacy and Policy; Event Logistics; Volunteer Management; Research about OpenCon's Issue Areas; Other (fill-in).</span>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
 
 #Data Collection & Cleaning
 
