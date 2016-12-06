@@ -219,4 +219,4 @@ A unique aspect of OpenCon is that attendance at the conference is by applicatio
 
 #Questions
 
-For inquires about the OpenCon 2015 Application data, please contact Nicole Allen at nicole@sparc.arl.org. 
+For inquires about the OpenCon 2015 Application data, please contact Nicole Allen at nicole@sparcopen.org. 
