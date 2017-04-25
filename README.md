@@ -1,4 +1,4 @@
-#OpenCon 2015 Application Open Data 
+# OpenCon 2015 Application Open Data 
 
 The purpose of this document is to accompany the public release of data collected from OpenCon 2015 applications. 
 Download & Technical Information
@@ -7,13 +7,13 @@ The data can be downloaded in CSV format from GitHub here: https://github.com/Ri
 
 The file uses UTF8 encoding, comma as field delimiter, quotation marks as text delimiter, and no byte order mark.
 
-#License and Requests
+# License and Requests
 
 This data is released to the public for free and open use under a CC0 1.0 license. 
 
 We have a couple of requests for anyone who uses the data. First, we’d love it if you would let us know what you are doing with it, and share back anything you develop with the OpenCon community (#opencon / @open_con ). Second, it would also be great if you would include a link to the OpenCon 2015 website (www.opencon2015.org) wherever the data is used. You are not obligated to do any of this, but we’d appreciate it!
 
-#Data Fields
+# Data Fields
 
 <table cellpadding="0" cellspacing="0" class="c9">
 
@@ -199,7 +199,7 @@ We have a couple of requests for anyone who uses the data. First, we’d love it
 
 </table>
 
-#Data Collection & Cleaning
+# Data Collection & Cleaning
 
 This data consists of information collected from people who applied to attend OpenCon 2015. In the application form, questions that would be released as Open Data were marked with a caret (^) and applicants were asked to acknowledge before submitting the form that they understood that their responses to these questions would be released as such. The questions we released were selected to avoid any potentially sensitive personal information, and to minimize the chances that any individual applicant can be positively identified.
 
@@ -211,12 +211,12 @@ The primary work we did to clean the data focused on identifying and eliminating
 
 We made a few minor adjustments in the country field for cases where the entry was obviously an error (for example, electing a country listed alphabetically above or below the one indicated elsewhere in the application). We also removed one potentially offensive comment (which did not contain an answer to the question) from the Gender field and replaced it with “Other.”
 
-#About OpenCon
+# About OpenCon
 
 OpenCon 2015 is the student and early career academic professional conference on Open Access, Open Education, and Open Data and will be held on November 14-16, 2015 in Brussels, Belgium. It is organized by the Right to Research Coalition, SPARC (The Scholarly Publishing and Academic Resources Coalition), and an Organizing Committee of students and early career researchers from around the world. The meeting will convene students and early career academic professionals from around the world and serve as a powerful catalyst for projects led by the next generation to advance OpenCon's three focus areas—Open Access, Open Education, and Open Data.
 
 A unique aspect of OpenCon is that attendance at the conference is by application only, and the majority of participants who apply are awarded travel scholarships to attend. This model creates a unique conference environment where the most dedicated and impactful advocates can attend, regardless of where in the world they live or their access to travel funding. The purpose of the application process is to conduct these selections fairly. This year we were overwhelmed by the quantity and quality of applications received, and we hope that by sharing this data, we can better understand the OpenCon community and the state of student and early career participation in the Open Access, Open Education, and Open Data movements. 
 
-#Questions
+# Questions
 
 For inquires about the OpenCon 2015 Application data, please contact Nicole Allen at nicole@sparcopen.org. 
